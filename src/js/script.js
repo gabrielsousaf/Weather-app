@@ -57,5 +57,11 @@ let getWeather = () =>{
 
 };
 
+city.addEventListener('keypress', (event) => {
+    if (event.key === 'Enter') {
+      searchBtn.click();
+    }
+});
+  
 searchBtn.addEventListener("click", getWeather);
 window.addEventListener("load", getWeather)
