@@ -8,6 +8,12 @@
 > Esse repositório tem como objetivo principal de apresentar meus estudos e aplicar em projetos pessoais.
 
 
+## ⚙ Descrição do projeto.
+> * Se tudo ocorer bem, ira mostrar a temperatura atual, minima,maxima e uma imagem de representação.<br>
+> * Se ocorrer um erro como cidade não existente ou algum erro na API o usuário sera avisado.<br>
+> * Botão enter do teclado configurado para ativar o código.
+
+
 ## ☕ Tecnologias Usadas
 
 [![HTML](https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=black&color=FF8000)](#)
